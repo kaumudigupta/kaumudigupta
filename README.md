@@ -8,8 +8,9 @@
  I am [Kaumudi Gupta](https://kaumudigupta.netlify.app/). I am a Senior Developer at SysCloud and currently focusing on building fullstack applications. 
  
  <p align="center">
+	<img src="https://gpvc.arturio.dev/kaumudigupta" alt="profile views"> 
 	<a href="https://github.com/kaumudigupta"><img src="https://img.shields.io/github/followers/kaumudigupta.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/kaumudigupta"><img src="https://img.shields.io/twitter/follow/kaumudigupta?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://twitter.com/kaumudigupta"><img src="https://img.shields.io/twitter/follow/kaumudigupta?label=%40kaumudigupta&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/kaumudigupta"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://github.com/sponsors/kaumudigupta"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
 </p>
