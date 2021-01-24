@@ -16,7 +16,9 @@
 </p>
 
 ---
-
+<a href="https://myoctocat.dev/@kaumudigupta/octocat">
+  <img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1611502704188.png" width=200 />
+</a>
 
 #### About me
 
